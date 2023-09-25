@@ -8,13 +8,13 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <version>0.0.1-SNAPSHOT</version>
   
   <dependencies>
-  <!-- https://mvnrepository.com/artifact/junit/junit -->
+  <!-- https://mvnrepository.com/artifact/junit/junit --><!-- https://mvnrepository.com/artifact/org.junit/junit5-engine -->
 <dependency>
-    <groupId>junit</groupId>
-    <artifactId>junit</artifactId>
-    <version>4.13.2</version>
-    <scope>test</scope>
+    <groupId>org.junit</groupId>
+    <artifactId>junit5-engine</artifactId>
+    <version>5.0.0-ALPHA</version>
 </dependency>
+
   
   </dependencies>
 </project>
